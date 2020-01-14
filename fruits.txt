@@ -4,4 +4,6 @@ Raspberry
 Grapes
 Melon
 Bananas
-peaches
+Peaches
+Strawberries
+Blackberries
